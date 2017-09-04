@@ -1,6 +1,6 @@
  Hackerrank
  ========================================
-Solución a los ejercicios de  Hackerrank
+
 
 Gio Cádiz
 
@@ -8,7 +8,7 @@ Gio Cádiz
 * Hackerrank : [My Hackerrank](https://www.hackerrank.com/giovannicadiz)
 
 ## Description
-
+Solución a los ejercicios de  Hackerrank.
 
 ## Requirements
 Este script requiere lo siguiente:
