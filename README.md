@@ -13,4 +13,5 @@ Solución a los ejercicios de  Hackerrank.
 ## Requirements
 Este script requiere lo siguiente:
 * Python version 3.6.2 [Downrload Python](https://www.python.org/downloads/)
+* Hackerrank [web oficial](https://www.hackerrank.com/)
 
