@@ -1,7 +1,7 @@
 List Comprehensions
 ====================
 
-Let's learn about list comprehensions! You are given three integers ** X, Y** and **Z** representing the dimensions of a 
+Let's learn about list comprehensions! You are given three integers **X, Y** and **Z** representing the dimensions of a 
 cuboid along with an integer **N**. You have to print a list of all possible coordinates given by **( i , j , k )** on a 3D grid 
 where the sum of **i + j + k** is not equal to . Here, **0 <= i <= X; 0 <= j <= Y; 0 <= k <= Z**
 
