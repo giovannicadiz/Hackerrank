@@ -28,7 +28,7 @@ Print a staircase of size **n** using `#` symbols and spaces.
 6 
 ```
 
-**Sample Output***
+**Sample Output**
 ```
      #
     ##
