@@ -1,5 +1,4 @@
 def aVeryBigSum(n, ar):
-    # Complete this function
 	return sum(ar)
 
 n = int(input().strip())

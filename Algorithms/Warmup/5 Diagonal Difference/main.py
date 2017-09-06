@@ -1,8 +1,8 @@
 n = int(input().strip())
-sumL = 0
-sumR = 0
+sL = 0
+sR = 0
 for i in range(n):
 	matrix = input().split()
-	sumL += int(matrix[i])
-	sumR += int(matrix[-(i + 1)])
-print(abs(sumL - sumR))	
+	sL += int(matrix[i])
+	sR += int(matrix[-(i + 1)])
+print(abs(sL - sR))	
