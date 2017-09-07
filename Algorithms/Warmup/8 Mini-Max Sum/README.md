@@ -41,6 +41,6 @@ Our initial numbers are 1, 2, 3, 4, and 5. We can calculate the following sums u
 As you can see, the minimal sum is 1 + 2 + 3 + 4 = 10 and the maximal sum is 2 + 3 + 4 + 5 = 14. Thus, we 
 print these minimal and maximal sums as two space-separated integers on a new line.
 
-**Hints:* Beware of integer overflow! Use 64-bit Integer.
+**Hints:** Beware of integer overflow! Use 64-bit Integer.
 
 Need help to get started? Try the [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) problem
