@@ -1,16 +1,16 @@
 Table of Contents *`Warmup`*
 ===================
+</br>
 
-
-| N° 	|         Challenge         	| Language 	| Difficulty 	| Score 	|        Solution       	|
-|:--:	|:-------------------------:	|:--------:	|:----------:	|:-----:	|:---------------------:	|
-|  1 	| [Solve Me First]()        	| Python 3 	|    Easy    	| 1.0   	| [Code](www.google.cl) 	|
-|  2 	| [Simple Array Sum]()      	| Python 3 	|    Easy    	| 10.0  	| [Code](www.google.cl) 	|
-|  3 	| [Compare the Triplets]()  	| Python 3 	|    Easy    	| 10.0  	| [Code](www.google.cl) 	|
-|  4 	| [A Very Big Sum]()        	| Python 3 	|    Easy    	| 10.0  	| [Code](www.google.cl) 	|
-|  5 	| [Diagonal Difference]()   	| Python 3 	|    Easy    	| 10.0  	| [Code](www.google.cl) 	|
-|  6 	| [Plus Minus]()            	| Python 3 	|    Easy    	| 10.0  	| [Code](www.google.cl) 	|
-|  7 	| [Staircase]()             	| Python 3 	|    Easy    	| 10.0  	| [Code](www.google.cl) 	|
-|  8 	| [Mini-Max Sum]()          	| Python 3 	|    Easy    	| 10.0  	| [Code](www.google.cl) 	|
-|  9 	| [Birthday Cake Candles]() 	| Python 3 	|    Easy    	| 10.0  	| [Code](www.google.cl) 	|
-| 10 	| [Time Conversion]()       	| Python 3 	|    Easy    	| 15.0  	| [Code](www.google.cl) 	|
+| N° 	|                                                             Challenge                                                            	| Language 	| Difficulty 	| Score 	|                                                         Solution                                                        	|
+|:--:	|:--------------------------------------------------------------------------------------------------------------------------------:	|:--------:	|:----------:	|:-----:	|:-----------------------------------------------------------------------------------------------------------------------:	|
+|  1 	| [Solve Me First](https://github.com/giovannicadiz/Hackerrank/tree/master/Algorithms/Warmup/1%20Solve%20Me%20First)               	| Python 3 	|    Easy    	| 1.0   	|     [Code](https://github.com/giovannicadiz/Hackerrank/blob/master/Algorithms/Warmup/1%20Solve%20Me%20First/main.py)    	|
+|  2 	| [Simple Array Sum](https://github.com/giovannicadiz/Hackerrank/tree/master/Algorithms/Warmup/2%20Simple%20Array%20Sum)           	| Python 3 	|    Easy    	| 10.0  	|    [Code](https://github.com/giovannicadiz/Hackerrank/blob/master/Algorithms/Warmup/2%20Simple%20Array%20Sum/main.py)   	|
+|  3 	| [Compare the Triplets](https://github.com/giovannicadiz/Hackerrank/tree/master/Algorithms/Warmup/3%20Compare%20the%20Triplets)   	| Python 3 	|    Easy    	| 10.0  	|  [Code](https://github.com/giovannicadiz/Hackerrank/blob/master/Algorithms/Warmup/3%20Compare%20the%20Triplets/main.py) 	|
+|  4 	| [A Very Big Sum](https://github.com/giovannicadiz/Hackerrank/tree/master/Algorithms/Warmup/4%20A%20Very%20Big%20Sum)             	| Python 3 	|    Easy    	| 10.0  	|    [Code](https://github.com/giovannicadiz/Hackerrank/blob/master/Algorithms/Warmup/4%20A%20Very%20Big%20Sum/main.py)   	|
+|  5 	| [Diagonal Difference](https://github.com/giovannicadiz/Hackerrank/tree/master/Algorithms/Warmup/5%20Diagonal%20Difference)       	| Python 3 	|    Easy    	| 10.0  	|   [Code](https://github.com/giovannicadiz/Hackerrank/blob/master/Algorithms/Warmup/5%20Diagonal%20Difference/main.py)   	|
+|  6 	| [Plus Minus](https://github.com/giovannicadiz/Hackerrank/tree/master/Algorithms/Warmup/6%20Plus%20Minus)                         	| Python 3 	|    Easy    	| 10.0  	|        [Code](https://github.com/giovannicadiz/Hackerrank/blob/master/Algorithms/Warmup/6%20Plus%20Minus/main.py)       	|
+|  7 	| [Staircase](https://github.com/giovannicadiz/Hackerrank/tree/master/Algorithms/Warmup/7%20Staircase)                             	| Python 3 	|    Easy    	| 10.0  	|         [Code](https://github.com/giovannicadiz/Hackerrank/blob/master/Algorithms/Warmup/7%20Staircase/main.py)         	|
+|  8 	| [Mini-Max Sum](https://github.com/giovannicadiz/Hackerrank/tree/master/Algorithms/Warmup/8%20Mini-Max%20Sum)                     	| Python 3 	|    Easy    	| 10.0  	|       [Code](https://github.com/giovannicadiz/Hackerrank/blob/master/Algorithms/Warmup/8%20Mini-Max%20Sum/main.py)      	|
+|  9 	| [Birthday Cake Candles](https://github.com/giovannicadiz/Hackerrank/tree/master/Algorithms/Warmup/9%20Birthday%20Cake%20Candles) 	| Python 3 	|    Easy    	| 10.0  	| [Code](https://github.com/giovannicadiz/Hackerrank/blob/master/Algorithms/Warmup/9%20Birthday%20Cake%20Candles/main.py) 	|
+| 10 	| [Time Conversion](https://github.com/giovannicadiz/Hackerrank/tree/master/Algorithms/Warmup/10%20Time%20Conversion)              	| Python 3 	|    Easy    	| 15.0  	|     [Code](https://github.com/giovannicadiz/Hackerrank/blob/master/Algorithms/Warmup/10%20Time%20Conversion/main.py)    	|
