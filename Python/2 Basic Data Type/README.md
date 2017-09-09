@@ -1,5 +1,5 @@
-2 Basic Data Type
-==================
+*2 Basic Data Type*
+======================
 ## Table of Contents
 </br>
 
