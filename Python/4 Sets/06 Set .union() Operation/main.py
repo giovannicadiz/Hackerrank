@@ -1,0 +1,5 @@
+i = input()
+ib = set(input().split())
+f = input()
+fb = input().split()
+print(len(ib.union(fb)))
